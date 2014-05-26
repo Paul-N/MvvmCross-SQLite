@@ -1,5 +1,8 @@
 ##MvvmCross Sqlite-Net
 
+This fork is intended for fixing this bug (on WP 7):
+https://code.google.com/p/csharp-sqlite/issues/detail?id=126
+
 An attempt to allow the community to more easily contribute...
 
 This repository is a fork of the wonderful https://github.com/praeclarum/sqlite-net/
